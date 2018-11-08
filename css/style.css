@@ -47,6 +47,19 @@ a:hover {
 	color: #1783bb;
 	text-decoration: underline;
 }
+img{
+	border: 5px rgb(152,173,166) solid;
+}
 
+footer {
+	text-align: right;
+  background: #fff;
+}
 
 /* Write all remaining styles here */
+
+
+
+
+
+
